@@ -1,1 +1,2 @@
 # EfeitoMatrix
+Você precisa baixar o arquivo se necessário descompactar e executar em um ambiente (IDE) com o Python3 instalado na sua máquina. Certifique de instalar a biblioteca 'colorama', caso contrário o código não funcionará. VocÊ pode fazer a instalação através do terminal windows ou em uma IDE específica, executando o seguinte comando: 'pip install colorama'. Executando esses passos simples você poderá executar o código sem problemas. Qualquer dúvida ou Feedback meu Instagram: @gabriel.sandes_dev
